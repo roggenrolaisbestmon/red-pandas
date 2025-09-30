@@ -2,6 +2,7 @@
 
 A small example project to build your experience with Git and Quarto
 
+here is a change
 
 ## Dependencies and Getting Started
 
@@ -13,7 +14,7 @@ Here’s how someone can pick up and use this project:
 git clone https://github.com/zakvarty/red-pandas.git
 cd red-pandas
 ```
-
+c
 2. Install [Quarto](https://quarto.org/docs/get-started/) if you don’t already have it. 
 You can check this in the terminal.
 
